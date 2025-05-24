@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "net.luko.random_mob_levels.mixin",
+  "refmap": "random_mob_levels.refmap.json",
+  "mixins": [
+    "MobsLevelingEventsMixin"
+  ],
+  "client": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "verbose": true
+}
